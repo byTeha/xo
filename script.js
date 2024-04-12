@@ -49,4 +49,3 @@ function isVictory(cells){
 };
 
 start(cells);
-isVictory()
